@@ -1,6 +1,5 @@
 # What is this? 
-.ico files so you can change your Revit icons. 
-Why? Because all Revit Versions share the same desktop icon and you don't want to mix up. 
+This set of .ico files allows you to modify your Revit icons. Why is this useful? Because all versions of Revit have the same desktop icon, and using this set is an easy way to avoid mixing them up.
 ![image](https://user-images.githubusercontent.com/64084827/161807795-3d8fc9d6-ab7a-478a-afc9-15e43f286f31.png)
 
 # AUTHORS
