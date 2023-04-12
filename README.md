@@ -4,7 +4,7 @@ Why? Because all Revit Versions share the same desktop icon and you don't want t
 ![image](https://user-images.githubusercontent.com/64084827/161807795-3d8fc9d6-ab7a-478a-afc9-15e43f286f31.png)
 
 # AUTHORS
-These icons are my by /slantis amazing Marketing team!
+These icons are delivered to you from the /slantis amazing Marketing team!
 
 # 🔗 LINKS
 [![web](https://img.shields.io/badge/-%2Fslantis-ff7700)](http://slantis.com/)
