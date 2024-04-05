@@ -1,5 +1,5 @@
 # What is this? 
-This set of .ico files allows you to modify your Revit icons. Why is this useful? Because all versions of Revit have the same desktop icon, and using this set is an easy way to avoid mixing them up.
+This set of .ico files allows you to modify your Revit/Navisworks icons. Why is this useful? Because all versions of Revit have the same desktop icon, and using this set is an easy way to avoid mixing them up.
 
 ![Revit Icons](https://github.com/slantis/revit-logos/assets/69468970/7a593f59-0601-4b81-a477-09874010e457)
 
